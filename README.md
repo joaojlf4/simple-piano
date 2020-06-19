@@ -1,5 +1,5 @@
 ## Simple Piano
 
-![](demo.gif);
+![](demo.gif)
 
 A simple piano built with react (typescript).
